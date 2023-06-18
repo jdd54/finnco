@@ -1,0 +1,266 @@
+{
+  "lessons": [
+    { "level":2,
+      "random":false,
+      "form": "affirmative",
+      "content": [
+        {
+          "beginning":"Mitä sinä",
+          "end":"?",
+		  "answer":"teet",
+		  "verb":"TEHDÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Me",
+          "end":"lauantaina jalkapalloa.",
+          "answer":"pelaamme",
+          "verb":"PELATA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"",
+          "end":"minä kysyä jotakin?",
+          "answer":"Voinko",
+          "verb":"VOIDA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Ketä sinä",
+          "end":"?",
+		  "answer":"odotat",
+		  "verb":"ODOTTAA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"mennä uimaan.",
+		  "answer":"haluan",
+		  "verb":"HALUTA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"",
+          "end":"te puhua saksaa?",
+          "answer":"osaatteko",
+          "verb":"OSATA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Me",
+          "end":"talvella.",
+          "answer":"hiihdämme",
+          "verb":"HIIHTÄÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Isä",
+          "end":"kirjaa",
+          "answer":"lukee",
+          "verb":"LUKEA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Ystävät",
+          "end":"kello kuusi.",
+          "answer":"tulevat",
+          "verb":"TULLA",
+          "form": "affirmative"
+        }
+      ]
+    },
+    { "level":2,
+      "random":false,
+      "form": "negative",
+      "content": [
+        {
+          "beginning":"Mitä sinä",
+          "end":"?",
+          "answer":"et syö",
+          "verb":"SYÖDÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Me",
+          "end":"lauantaina jalkapalloa.",
+          "answer":"emme pelaa",
+          "verb":"PELATA",
+          "form": "negative"
+        },
+        {
+          "beginning":"",
+          "end":"kysyä mitään? (minä)",
+          "answer":"Enkö voi",
+          "verb":"VOIDA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Kenestä sinä",
+          "end":"?",
+          "answer":"et tykkää",
+          "verb":"TYKÄTÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"mennä uimaan.",
+          "answer":"en halua",
+          "verb":"HALUTA",
+          "form": "negative"
+        },
+        {
+          "beginning":"",
+          "end":"puhua saksaa? (Te)",
+          "answer":"Ettekö osaa",
+          "verb":"OSATA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Me",
+          "end":"talvella.",
+          "answer":"emme hiihdä",
+          "verb":"HIIHTÄÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Isä",
+          "end":"kirjaa",
+          "answer":"ei lue",
+          "verb":"LUKEA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Ystäväni",
+          "end":"kello kuusi.",
+          "answer":"eivät tule",
+          "verb":"TULLA",
+          "form": "negative"
+        }
+      ]
+    },
+    { "level":2,
+      "random":false,
+      "form": "affirmative",
+      "content": [
+        {
+          "beginning":"Me",
+          "end":"ruotsia.",
+          "answer":"ymmärrämme",
+          "verb":"YMMÄRTÄÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Matti",
+          "end":"Minnan.",
+          "answer":"tuntee",
+          "verb":"TUNTEA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Sinä",
+          "end":"minut.",
+          "answer":"näet",
+          "verb":"NÄHDÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Pienet lapset",
+          "end":"lukea.",
+          "answer":"osaavat",
+          "verb":"OSATA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Sinä",
+          "end":"junaan.",
+          "answer":"ehdit",
+          "verb":"EHTIÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"illalla kauppaan.",
+          "answer":"menen",
+          "verb":"MENNÄ",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"apua.",
+          "answer":"tarvitsen",
+          "verb":"TARVITA",
+          "form": "affirmative"
+        },
+        {
+          "beginning":"Me",
+          "end":"aamulla kahvia.",
+          "answer":"juomme",
+          "verb":"JUODA",
+          "form": "affirmative"
+        }
+      ]
+    },
+    { "level":2,
+      "random":false,
+      "form": "negative",
+      "content": [
+        {
+          "beginning":"Me",
+          "end":"ruotsia.",
+          "answer":"emme ymmärrä",
+          "verb":"YMMÄRTÄÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Matti",
+          "end":"Minnaa.",
+          "answer":"ei tunne",
+          "verb":"TUNTEA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Sinä",
+          "end":"minua.",
+          "answer":"et näe",
+          "verb":"NÄHDÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Pienet lapset",
+          "end":"lukea.",
+          "answer":"eivät osaa",
+          "verb":"OSATA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Sinä",
+          "end":"junaan.",
+          "answer":"et ehdi",
+          "verb":"EHTIÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"illalla uimahalliin.",
+          "answer":"en mene",
+          "verb":"MENNÄ",
+          "form": "negative"
+        },
+        {
+          "beginning":"Minä",
+          "end":"kuittia.",
+          "answer":"en tarvitse",
+          "verb":"TARVITA",
+          "form": "negative"
+        },
+        {
+          "beginning":"Me",
+          "end":"aamulla kahvia.",
+          "answer":"emme juo",
+          "verb":"JUODA",
+          "form": "negative"
+        }
+      ]
+    }
+  ]
+}
